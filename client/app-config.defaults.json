@@ -1,0 +1,30 @@
+{
+	"uploadToken": "UPDATE_THIS_TO_YOUR_TOKENFROM_CONFIG_SH",
+	"serverUrl": "http://localhost/",
+	"kioskMode": true,
+	"exitClicks": 8,
+	"goHomeAfterFormSubmit": true,
+	"uploadUnlockedFormReponses": true,
+	"homeUrl": "custom-app",
+	
+	"syncProtocol": "1",
+	"columnsOnVisitsTab": ["student_id" ],
+	"securityQuestionText": "What is your year of birth?",
+	"hideProfile": false,
+	"registrationRequiresServerUser": false,
+	"listUsernamesOnLoginScreen": true,
+	"passwordPolicy": "(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{8,}",
+	"passwordRecipe": "Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters",
+	"groupName": "Tanzania Zanzibar SA EGRMA",
+	"centrallyManagedUserProfile": false,
+	"languageDirection": "ltr",
+	"languageCode": "en",
+	"couchdbPush4All": false,
+	"couchdbPullUsingDocIds": false,
+	"autoMergeConflicts": false,
+	"groupId": "group-aea7a65f-4f14-4fe1-9e8c-a513dc07e1e1",
+	"modules": [
+		"csv"
+	],
+	"direction": "undefined"
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "user-profile",
+        "src": "./assets/user-profile/form.html",
+        "title": "User Profile",
+        "listed": false
+    },
+    {
+        "id": "reports",
+        "src": "./assets/reports/form.html",
+        "title": "Reports",
+        "listed": false
+    },
+    {
+        "id": "form-e35bde98-a310-44f1-be1e-4208e507e7d1",
+        "type": "form",
+        "title": "Letters",
+        "src": "./assets/form-e35bde98-a310-44f1-be1e-4208e507e7d1/form.html",
+        "searchSettings": {
+            "shouldIndex": false,
+            "variablesToIndex": [],
+            "primaryTemplate": "",
+            "secondaryTemplate": ""
+        },
+        "customSyncSettings": {
+            "enabled": false,
+            "push": false,
+            "pull": false,
+            "excludeIncomplete": false
+        },
+        "couchdbSyncSettings": {
+            "enabled": false,
+            "push": true,
+            "pull": false,
+            "filterByLocation": false
+        },
+        "archived": false
+    },
+    {
+        "id": "form-6bcc54cc-3b7f-4d34-9b20-affc2bfa275f",
+        "type": "form",
+        "title": "Numbers",
+        "src": "./assets/form-6bcc54cc-3b7f-4d34-9b20-affc2bfa275f/form.html",
+        "searchSettings": {
+            "shouldIndex": false,
+            "variablesToIndex": [],
+            "primaryTemplate": "",
+            "secondaryTemplate": ""
+        },
+        "customSyncSettings": {
+            "enabled": false,
+            "push": false,
+            "pull": false,
+            "excludeIncomplete": false
+        },
+        "couchdbSyncSettings": {
+            "enabled": false,
+            "push": true,
+            "pull": false,
+            "filterByLocation": false
+        },
+        "archived": false
+    },
+{
+		"id": "about",
+		"type": "form",
+		"title": "About",
+		"listed": false,
+		"src": "./assets/about/form.html",
+		"searchSettings": {
+			"shouldIndex": false,
+			"variablesToIndex": [
+
+			],
+			"primaryTemplate": "",
+			"secondaryTemplate": ""
+		},
+		"customSyncSettings": {
+			"enabled": false,
+			"push": false,
+			"pull": false,
+			"excludeIncomplete": false
+		},
+		"couchdbSyncSettings": {
+			"enabled": false,
+			"push": true,
+			"pull": false,
+			"filterByLocation": false
+		},
+		"archived": true
+	}
+]

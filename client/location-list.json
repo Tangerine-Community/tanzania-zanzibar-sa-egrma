@@ -1,0 +1,383 @@
+{
+  "id": "location-list",
+  "name": "SA Tz Prep Location List",
+  "locations": {
+    "Manyara": {
+      "parent": "root",
+      "label": "Manyara",
+      "id": "Manyara",
+      "level": "Region",
+      "children": {
+        "Hanang_D": {
+          "parent": "Manyara",
+          "label": "Hanang",
+          "id": "Hanang_D",
+          "level": "District",
+          "children": {
+            "EM.10461": {
+              "parent": "Hanang_D",
+              "label": "GAGHATA",
+              "id": "EM.10461",
+              "level": "School",
+              "children": {}
+            },
+            "EM.9691": {
+              "parent": "Hanang_D",
+              "label": "WANDELA",
+              "id": "EM.9691",
+              "level": "School",
+              "children": {}
+            },
+            "EM.9682": {
+              "parent": "Hanang_D",
+              "label": "MATANGARIMO",
+              "id": "EM.9682",
+              "level": "School",
+              "children": {}
+            }
+          }
+        },
+        "Mbulu_D": {
+          "parent": "Manyara",
+          "label": "Mbulu",
+          "id": "Mbulu_D",
+          "level": "District",
+          "children": {
+            "EM.7787": {
+              "parent": "Mbulu_D",
+              "label": "ENDAHAGICHAN",
+              "id": "EM.7787",
+              "level": "School",
+              "children": {}
+            },
+            "EM.4202": {
+              "parent": "Mbulu_D",
+              "label": "ENDAMILAY",
+              "id": "EM.4202",
+              "level": "School",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "Zanzibar": {
+      "parent": "root",
+      "label": "Zanzibar",
+      "id": "Zanzibar",
+      "level": "Region",
+      "children": {
+        "KATI_D": {
+          "parent": "Zanzibar",
+          "label": "KATI",
+          "id": "KATI_D",
+          "level": "District",
+          "children": {
+            "ZP0129": {
+              "parent": "KATI_D",
+              "label": "PETE ",
+              "id": "ZP0129",
+              "level": "School",
+              "children": {}
+            }
+          }
+        },
+        "KUSINI (UNGUJA)_D": {
+          "parent": "Zanzibar",
+          "label": "KUSINI (UNGUJA)",
+          "id": "KUSINI (UNGUJA)_D",
+          "level": "District",
+          "children": {
+            "ZP0162": {
+              "parent": "KUSINI (UNGUJA)_D",
+              "label": "MTENDE",
+              "id": "ZP0162",
+              "level": "School",
+              "children": {}
+            }
+          }
+        },
+        "MAGHARIBI (A) UNGUJA_D": {
+          "parent": "Zanzibar",
+          "label": "MAGHARIBI (A) UNGUJA",
+          "id": "MAGHARIBI (A) UNGUJA_D",
+          "level": "District",
+          "children": {
+            "ZP0034": {
+              "parent": "MAGHARIBI (A) UNGUJA_D",
+              "label": "MTOPEPO 'A'",
+              "id": "ZP0034",
+              "level": "School",
+              "children": {}
+            }
+          }
+        },
+        "MAGHARIBI (B) UNGUJA_D": {
+          "parent": "Zanzibar",
+          "label": "MAGHARIBI (B) UNGUJA",
+          "id": "MAGHARIBI (B) UNGUJA_D",
+          "level": "District",
+          "children": {
+            "ZP0054": {
+              "parent": "MAGHARIBI (B) UNGUJA_D",
+              "label": "KINUNI ",
+              "id": "ZP0054",
+              "level": "School",
+              "children": {}
+            }
+          }
+        },
+        "MJINI_D": {
+          "parent": "Zanzibar",
+          "label": "MJINI",
+          "id": "MJINI_D",
+          "level": "District",
+          "children": {
+            "ZP0009": {
+              "parent": "MJINI_D",
+              "label": "CHUMBUNI",
+              "id": "ZP0009",
+              "level": "School",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "Shinyanga": {
+      "parent": "root",
+      "label": "Shinyanga",
+      "id": "Shinyanga",
+      "level": "Region",
+      "children": {
+        "Kahama MC_D": {
+          "parent": "Shinyanga",
+          "label": "Kahama MC",
+          "id": "Kahama MC_D",
+          "level": "District",
+          "children": {
+            "EM.6654": {
+              "parent": "Kahama MC_D",
+              "label": "MALENGE",
+              "id": "EM.6654",
+              "level": "School",
+              "children": {}
+            },
+            "EM.7392": {
+              "parent": "Kahama MC_D",
+              "label": "KAWE",
+              "id": "EM.7392",
+              "level": "School",
+              "children": {}
+            },
+            "EM.1382": {
+              "parent": "Kahama MC_D",
+              "label": "GIRIME",
+              "id": "EM.1382",
+              "level": "School",
+              "children": {}
+            }
+          }
+        },
+        "Msalala_D": {
+          "parent": "Shinyanga",
+          "label": "Msalala",
+          "id": "Msalala_D",
+          "level": "District",
+          "children": {
+            "EM.7412": {
+              "parent": "Msalala_D",
+              "label": "NTUNDU",
+              "id": "EM.7412",
+              "level": "School",
+              "children": {}
+            },
+            "EM.11501": {
+              "parent": "Msalala_D",
+              "label": "MWANYAGULI",
+              "id": "EM.11501",
+              "level": "School",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "Tabora": {
+      "parent": "root",
+      "label": "Tabora",
+      "id": "Tabora",
+      "level": "Region",
+      "children": {
+        "Tabora MC_D": {
+          "parent": "Tabora",
+          "label": "Tabora MC",
+          "id": "Tabora MC_D",
+          "level": "District",
+          "children": {
+            "EM.9424": {
+              "parent": "Tabora MC_D",
+              "label": "IGOSHA",
+              "id": "EM.9424",
+              "level": "School",
+              "children": {}
+            },
+            "EM.10257": {
+              "parent": "Tabora MC_D",
+              "label": "BLOCKFARM",
+              "id": "EM.10257",
+              "level": "School",
+              "children": {}
+            },
+            "EM.9421": {
+              "parent": "Tabora MC_D",
+              "label": "IGAMBILO",
+              "id": "EM.9421",
+              "level": "School",
+              "children": {}
+            }
+          }
+        },
+        "Nzega_D": {
+          "parent": "Tabora",
+          "label": "Nzega",
+          "id": "Nzega_D",
+          "level": "District",
+          "children": {
+            "EM.10021": {
+              "parent": "Nzega_D",
+              "label": "MWASIMBA",
+              "id": "EM.10021",
+              "level": "School",
+              "children": {}
+            },
+            "EM.1437": {
+              "parent": "Nzega_D",
+              "label": "TUMBI",
+              "id": "EM.1437",
+              "level": "School",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "Practice": {
+      "parent": "root",
+      "label": "Practice",
+      "id": "Practice",
+      "level": "Region",
+      "children": {
+        "Practice_D": {
+          "parent": "Practice",
+          "label": "Practice",
+          "id": "Practice_D",
+          "level": "District",
+          "children": {
+            "Practice01": {
+              "parent": "Practice_D",
+              "label": "Practice",
+              "id": "Practice01",
+              "level": "School",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "Morogoro": {
+      "parent": "root",
+      "label": "Morogoro",
+      "id": "Morogoro",
+      "level": "Region",
+      "children": {
+        "Morogoro_D": {
+          "parent": "Morogoro",
+          "label": "Kilosa",
+          "id": "Morogoro_D",
+          "level": "District",
+          "children": {
+            "EM.2050": {
+              "parent": "Morogoro_D",
+              "label": "MANDEGE",
+              "id": "EM.2050",
+              "level": "School",
+              "children": {}
+            },
+            "EM.7826": {
+              "parent": "Morogoro_D",
+              "label": "IJAVA",
+              "id": "EM.7826",
+              "level": "School",
+              "children": {}
+            },
+            "EM.12033": {
+              "parent": "Morogoro_D",
+              "label": "MNYUHNHE",
+              "id": "EM.12033",
+              "level": "School",
+              "children": {}
+            },
+            "EM.3883": {
+              "parent": "Morogoro_D",
+              "label": "IFUNDE",
+              "id": "EM.3883",
+              "level": "School",
+              "children": {}
+            },
+            "EM.10824": {
+              "parent": "Morogoro_D",
+              "label": "MWISINI",
+              "id": "EM.10824",
+              "level": "School",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "Ruvuma": {
+      "parent": "root",
+      "label": "Ruvuma",
+      "id": "Ruvuma",
+      "level": "Region",
+      "children": {
+        "Ruvuma_D": {
+          "parent": "Ruvuma",
+          "label": "Mbinga TC",
+          "id": "Ruvuma_D",
+          "level": "District",
+          "children": {
+            "EM.10509": {
+              "parent": "Ruvuma_D",
+              "label": "SARA",
+              "id": "EM.10509",
+              "level": "School",
+              "children": {}
+            },
+            "EM.14704": {
+              "parent": "Ruvuma_D",
+              "label": "NGWAMBO",
+              "id": "EM.14704",
+              "level": "School",
+              "children": {}
+            },
+            "EM.10511": {
+              "parent": "Ruvuma_D",
+              "label": "MAKUNGURU",
+              "id": "EM.10511",
+              "level": "School",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "locationsLevels": [
+    "Region",
+    "District",
+    "School"
+  ],
+  "metadata": {}
+}
